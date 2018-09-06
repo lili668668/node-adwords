@@ -6,7 +6,6 @@
 
 const request = require('request');
 const util = require('util');
-const fs = require('fs');
 const AdwordsConstants = require('./constants');
 const AdwordsReportBuilder = require('./report-builder');
 const AdwordsAuth = require('./auth');
